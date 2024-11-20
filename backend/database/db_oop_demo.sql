@@ -1,0 +1,8 @@
+-- CREATE DATABASE oop_demo;
+-- USE oop_demo;
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    role VARCHAR(20) NOT NULL
+);
