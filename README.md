@@ -61,7 +61,7 @@ CREATE TABLE users (
 3. Inicie o servidor:
 
    ```bash
-   npm start
+   node index.js
    ```
 
    O servidor estará rodando em `http://localhost:5000`.
